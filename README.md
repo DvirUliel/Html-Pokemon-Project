@@ -9,12 +9,12 @@ This repository contains a simple HTML webpage showcasing information about two 
 - **Navigation Links**: Links to external pages and videos for further exploration of the Pokémon.
 
 ## Files
-- `index.html`: The main HTML file for the Pokémon information page.
+- `Pokemon_project.html`: The main HTML file for the Pokémon information page.
 
 ## Usage
 To view the webpage:
 1. Clone or download this repository to your local machine.
-2. Open the `index.html` file in a web browser.
+2. Open the `Pokemon_project.html` file in a web browser.
 
 ## Code Overview
 - **Table Structure**: The webpage uses an HTML table with the following rows:
@@ -23,23 +23,8 @@ To view the webpage:
   - **Aggron Section**: Contains a link to the Aggron page, detailed information about Aggron, an image, and a YouTube video of a battle against Infernape.
   - **Footer Row**: Displays the copyright notice and a link to scroll to the top of the page.
 
-**HTML Table Usage**
-The HTML table is used here to organize and display content clearly:
-- **Column Headers and Data**: Divides the content into two main columns: one for navigation and one for detailed information about each Pokémon.
-- **Center Alignment**: The use of `<center>` tags helps in aligning links centrally within their cells.
-- **Images and Videos**: Showcases visual content alongside textual information to enhance user engagement.
-
-## Contributing
-Feel free to contribute to this project by submitting a pull request. Suggestions for additional content, improvements, or corrections are welcome.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any questions or suggestions, please open an issue on this repository.
-
-### Installation
-1. **Clone the Repository**
+## Installation
+- **Clone the Repository**
    ```bash
    git clone https://github.com/DvirUliel/Html-Pokemon-Project.git
    cd Html-Pokemon-Project
