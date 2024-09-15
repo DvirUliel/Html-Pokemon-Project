@@ -37,3 +37,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any questions or suggestions, please open an issue on this repository.
+
+### Installation
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/DvirUliel/Html-Pokemon-Project.git
+   cd Html-Pokemon-Project
+
