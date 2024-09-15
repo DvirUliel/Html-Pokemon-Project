@@ -10,6 +10,8 @@ This repository contains a simple HTML webpage showcasing information about two 
 
 ## Files
 - `Pokemon_project.html`: The main HTML file for the Pokémon information page.
+- `Garchomp.html`: Garchomp information page.
+- `Aggron.html`: Aggron information page.
 
 ## Usage
 To view the webpage:
